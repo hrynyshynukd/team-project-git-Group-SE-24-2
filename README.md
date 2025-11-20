@@ -1,2 +1,1 @@
-# team-project-git-Group-SE-24-2
-Frank Sinatra
+# BUGFIX versin: team-project-git-Group-SE-24-2
